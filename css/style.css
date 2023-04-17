@@ -1,0 +1,15 @@
+#sfondo_logo {
+    height: 60px;
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+    background-size: 50%;
+}
+
+#header_logo {
+    height: 100%;
+    width: 15%;
+    background-image: url(../img/logo.svg);
+    margin-left: 30%;
+    background-repeat: no-repeat;
+    background-position: left;
+}
