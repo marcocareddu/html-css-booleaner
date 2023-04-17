@@ -1,11 +1,14 @@
+body, #date, #sottotitolo, .didascalia {
+    margin: 0;
+}
+
 header {
-    margin-top: 0;
     background-color: #4ea0ff;
 }
 
 #sfondo_logo {
     height: 60px;
-    background-size: 50%;
+    background-size: 40%;
     background-image: url(../img/pattern.png);
 }
 
@@ -24,10 +27,6 @@ h1 {
     margin-bottom: 0;
 }
 
-#date, #sottotitolo {
-    margin: 0;
-}
-
 #date {
     font-size: 0.8rem;
 }
@@ -43,7 +42,6 @@ figure {
 
 .didascalia{
     font-size: 0.7rem;
-    margin: 0;
 }
 
 ul {
